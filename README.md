@@ -7,17 +7,29 @@ This Power BI dashboard provides a comprehensive overview of ATM transactions, c
 This section provides a breakdown of ATM maintenance costs. The costs are categorized and visualized using pie charts for the selected month (August). The categories include:
 
 CRA: Cash Replenishment Agency
+
 ATM AMC: ATM Annual Maintenance Contract
+
 Site Maintenance: Maintenance of the ATM site
+
 Spare Replacement: Replacement of ATM spare parts
+
 UPS AMC: Uninterruptible Power Supply Annual Maintenance Contract
+
 VSAT AMC: Very Small Aperture Terminal Annual Maintenance Contract
-Key Metrics
+
+**Key Metrics**
+
 Total Cost: 296M
+
 Average Total Transactions (TXN): 178.89M
+
 Gross Profit Percentage: 59.6%
+
 Average Uptime: 91.9%
+
 Average EBILL: 2.21K
+
 Revenue Analysis (ATM, MHA, and Monthly Revenue)
 
 **This section highlights the revenue generated from ATMs, MHA (Ministry of Home Affairs), and overall monthly revenue across various regions. The regions analyzed include:**

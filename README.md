@@ -73,6 +73,63 @@ July 2024
 September 2024
 November 2024
 
+**Detail Analysis (By State and Revenue Performance)**
+
+**This section provides a detailed breakdown of revenue performance by state, categorized by rent, monthly revenue, gross profit percentage, average uptime, average total transactions, and EBILL:**
+
+**Below 10K:**
+
+**Arunachal Pradesh:** Rent - 7200, Monthly Rev - 5448, Gross Profit % - 698.0%, Avg Up Time - 40.0%, AVG Total TXN - 24.00, EBILL - 5000
+
+**Assam: Rent -** 17900, Monthly Rev - 47131, Gross Profit % - 402.0%, Avg Up Time - 50.6%, AVG Total TXN - 19.33, EBILL - 27183
+
+**Jammu & Kashmir:** Rent - 82350, Monthly Rev - 387601, Gross Profit % - 202.3%, Avg Up Time - 93.7%, AVG Total TXN - 21.51, EBILL - 168722
+
+Detail Analysis (By State and Revenue Performance)
+This section provides a detailed breakdown of revenue performance by state, categorized by rent, monthly revenue, gross profit percentage, average uptime, average total transactions, and EBILL:
+
+**Below 10K:**
+
+**Arunachal Pradesh:** Rent - 7200, Monthly Rev - 5448, Gross Profit % - 698.0%, Avg Up Time - 40.0%, AVG Total TXN - 24.00, EBILL - 5000
+
+**Assam:** Rent - 17900, Monthly Rev - 47131, Gross Profit % - 402.0%, Avg Up Time - 50.6%, AVG Total TXN - 19.33, EBILL - 27183
+
+**Jammu & Kashmir:** Rent - 82350, Monthly Rev - 387601, Gross Profit % - 202.3%, Avg Up Time - 93.7%, AVG Total TXN - 21.51, EBILL - 168722
+
+**Ladakh:** Rent - 14810, Monthly Rev - 43225, Gross Profit % - 273.0%, Avg Up Time - 94.4%, AVG Total TXN - 25.00, EBILL - 17500
+
+**Manipur**: Rent - 34000, Monthly Rev - 4262, Gross Profit % - 3002.9%, Avg Up Time - 32.2%, AVG Total TXN - 8.67, EBILL - 19378
+
+**Meghalaya:** Rent - 9830, Monthly Rev - 427, Gross Profit % - 888.5%, Avg Up Time - 100.0%, AVG Total TXN - 20.00, EBILL - 19378
+
+**Nagaland:** Rent - 427, Monthly Rev - 888.5, Gross Profit % - 156.7%, Avg Up Time - 87.6%, AVG Total TXN - 20.00, EBILL - 20000
+
+**Punjab:** Rent - 3500, Monthly Rev - 62036, Gross Profit % - 157.6%, Avg Up Time - 87.6%, AVG Total TXN - 31.25, EBILL - 20000
+
+**Sikkim:** Rent - 9571, Monthly Rev - 9471, Gross Profit % - 131.8%, Avg Up Time - 97.1%, AVG Total TXN - 20.00, EBILL - 7500
+
+**Above 50K:**
+
+Rent - 8554184, Monthly Rev - 10860860, Gross Profit % - 63.7%, Avg Up Time - 93.9%, AVG Total TXN - 228.80, EBILL - 3667469
+
+**40K - 50K:**
+Rent - 1725300, Monthly Rev - 16525629, Gross Profit % - 63.9%, Avg Up Time - 93.3%, AVG Total TXN - 151.16, EBILL - 478317
+
+**35K - 40K:**
+Rent - 615065, Monthly Rev - 5587999, Gross Profit % - 64.0%, Avg Up Time - 93.4%, AVG Total TXN - 132.87, EBILL - 163459
+
+**30K - 35K:**
+Rent - 429000, Monthly Rev - 3427112, Gross Profit % - 64.1%, Avg Up Time - 93.5%, AVG Total TXN - 111.26, EBILL - 245703
+
+**25K - 30K:**
+Rent - 284739, Monthly Rev - 2476059, Gross Profit % - 64.2%, Avg Up Time - 93.6%, AVG Total TXN - 95.00, EBILL - 200000
+
+**20K - 25K:**
+Rent - 247570, Monthly Rev - 1747372, Gross Profit % - 64.3%, Avg Up Time - 93.7%, AVG Total TXN - 79.16, EBILL - 172923
+
+**10K - 20K:**
+Rent - 355820, Monthly Rev - 2435212, Gross Profit % - 64.4%, Avg Up Time - 93.8%, AVG Total TXN - 56.99, EBILL - 385808
+
 **How the Dashboard Was Created**
 Data Collection
 Data was collected from various sources including ATM transaction logs, maintenance records, and financial reports. The data was cleaned and prepared for analysis using data preprocessing techniques.

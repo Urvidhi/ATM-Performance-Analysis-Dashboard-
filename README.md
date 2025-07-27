@@ -23,15 +23,25 @@ Revenue Analysis (ATM, MHA, and Monthly Revenue)
 **This section highlights the revenue generated from ATMs, MHA (Ministry of Home Affairs), and overall monthly revenue across various regions. The regions analyzed include:**
 
 Assam
+
 Punjab
+
 Jammu & Kashmir
+
 Manipur
+
 Tripura
+
 Nagaland
+
 Meghalaya
+
 Mizoram
+
 Arunachal Pradesh
+
 Ladakh
+
 Sikkim
 
 Financial Transactions (Fin Txn) and Non-Financial Transactions (Non-Fin Txn) by Month
